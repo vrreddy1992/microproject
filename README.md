@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Pofo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
@@ -29,3 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # p1raja
 >>>>>>> c6a65c9f69025df9b48aae8047d3a2a69f26d769
+=======
+# microproject
+microservices project
+>>>>>>> 058d8720b5527cef653993e1cec67cf9424f049a
